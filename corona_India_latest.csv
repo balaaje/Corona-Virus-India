@@ -1,28 +1,32 @@
-,Name of State / UT,Total Confirmed cases (Indian National),Total Confirmed cases ( Foreign National ),Cured/ Discharged/Migrated,Death,TotalCases
-0,Andaman and Nicobar Islands,2.0,0.0,0.0,0.0,2.0
-1,Andhra Pradesh,14.0,0.0,1.0,0.0,14.0
-2,Bihar,9.0,0.0,0.0,1.0,9.0
-3,Chandigarh,7.0,0.0,0.0,0.0,7.0
-4,Chhattisgarh,6.0,0.0,0.0,0.0,6.0
-5,Delhi,38.0,1.0,6.0,1.0,39.0
-6,Goa,3.0,0.0,0.0,0.0,3.0
-7,Gujarat,44.0,1.0,0.0,3.0,45.0
-8,Haryana,19.0,14.0,11.0,0.0,33.0
-9,Himachal Pradesh,3.0,0.0,0.0,1.0,3.0
-10,Karnataka,55.0,0.0,3.0,2.0,55.0
-11,Kerala,165.0,8.0,11.0,0.0,173.0
-12,Madhya Pradesh,30.0,0.0,0.0,2.0,30.0
-13,Maharashtra,177.0,3.0,25.0,5.0,180.0
-14,Manipur,1.0,0.0,0.0,0.0,1.0
-15,Mizoram,1.0,0.0,0.0,0.0,1.0
-16,Odisha,3.0,0.0,0.0,0.0,3.0
-17,Puducherry,1.0,0.0,0.0,0.0,1.0
-18,Punjab,38.0,0.0,1.0,1.0,38.0
-19,Rajasthan,46.0,2.0,3.0,0.0,48.0
-20,Tamil Nadu,32.0,6.0,2.0,1.0,38.0
-21,Telengana,38.0,10.0,1.0,0.0,48.0
-22,Jammu and Kashmir,18.0,0.0,1.0,1.0,18.0
-23,Ladakh,13.0,0.0,3.0,0.0,13.0
-24,Uttar Pradesh,40.0,1.0,11.0,0.0,41.0
-25,Uttarakhand,4.0,1.0,0.0,0.0,5.0
-26,West Bengal,15.0,0.0,0.0,1.0,15.0
+,Name of State / UT,Total Confirmed cases,Cured/Discharged/Migrated,Death,Active Cases
+0,Maharashtra,1985,217,149,1619
+1,Delhi,1154,27,24,1103
+2,Tamil Nadu,1043,50,11,982
+3,Rajasthan,804,21,3,780
+4,Madhya Pradesh,564,0,36,528
+5,Gujarat,516,44,25,447
+6,Telengana,504,43,9,452
+7,Uttar Pradesh,483,46,5,432
+8,Andhra Pradesh,427,11,7,409
+9,Kerala,376,179,2,195
+10,Jammu and Kashmir,245,6,4,235
+11,Karnataka,232,57,6,169
+12,Haryana,185,29,3,153
+13,West Bengal,152,29,7,116
+14,Punjab,151,5,11,135
+15,Bihar,64,19,1,44
+16,Odisha,54,12,1,41
+17,Uttarakhand,35,5,0,30
+18,Himachal Pradesh,32,13,1,18
+19,Chhattisgarh,31,10,0,21
+20,Assam,29,0,1,28
+21,Chandigarh,21,7,0,14
+22,Jharkhand,19,0,2,17
+23,Ladakh,15,10,0,5
+24,Andaman and Nicobar Islands,11,10,0,1
+25,Puducherry,7,1,0,6
+26,Goa,7,5,0,2
+27,Manipur,2,1,0,1
+28,Tripura,2,0,0,2
+29,Arunachal Pradesh,1,0,0,1
+30,Mizoram,1,0,0,1
